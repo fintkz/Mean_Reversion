@@ -2,6 +2,8 @@
 
 This project implements a simple mean reversion trading strategy for gold futures using Python and the Yahoo Finance API.
 
+Please note that this is a very simple project and is for educational purposes only and should not be used in production without thorough testing and analysis. Use at your own risk.
+
 ## Overview
 
 The strategy is based on two moving averages (30-day and 90-day) of the daily closing price of gold futures. When the difference between the price and the moving averages falls below a fixed threshold, the strategy generates a buy signal. When the difference rises above another fixed threshold, it generates a sell signal.
