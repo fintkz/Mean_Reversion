@@ -1,6 +1,6 @@
 # Mean Reversion Trading Strategy for Gold Futures
 
-This project implements a simple mean reversion trading strategy for gold futures using Python and the Yahoo Finance API.
+This project implements a simple mean reversion trading strategy for gold futures using simple Python libraries and the Yahoo Finance API.
 
 Please note that this is a very simple project and is for educational purposes only and should not be used in production without thorough testing and analysis. Use at your own risk.
 
@@ -16,5 +16,5 @@ Using historical data from January 1, 2021 to January 1, 2023, the strategy gene
 
 ## How to Use
 
-To run the strategy, clone this repository and run the `mean_reversion_strategy.py` script. The script requires the `yfinance`, `pandas`, and `matplotlib` libraries, which can be installed using pip.
+To run the strategy, clone this repository and run the `mean_reversion_strategy.py` script. For backtesting and generating the trading signal chart run the `gold_futures_meanReversion_backtest.py` script. The scripts require the `yfinance`, `pandas`, and `matplotlib` libraries, which can be installed using "pip install -r requirements.txt".
 
