@@ -12,7 +12,7 @@ The strategy also includes a stop loss rule to limit downside risk. If the price
 
 ## Results
 
-Using historical data from January 1, 2021 to January 1, 2023, the strategy generated a total return of $7577.40, equivalent to a percentage return of 7.58%. The strategy generated a total of 18 trades, with 8 wins and 1 loss.
+Using historical data from January 1, 2021 to January 1, 2023, the strategy generated a total return of $7577.40 from a capital of $100,000, equivalent to a percentage return of 7.58%. The strategy generated a total of 18 trades, with 8 wins and 1 loss.
 
 ## How to Use
 
